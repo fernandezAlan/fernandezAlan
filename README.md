@@ -1,18 +1,28 @@
  
  # **Alan Fernández**
  ## :fire: *Desarrollador fullStack* :fire:
- *!Hola! soy Alan, espero que encuentres en este perfil al desarrollador que estas búscando!* 
+ 
+ *:wave:!Hola! soy Alan* 
  
 
  
- ## Acerca de mi
+ ## :bell: Acerca de mi 
  Me llamo Alan,tengo 26 años y soy de Argentina.
 
  
  
- Empeze a mi carrera como programador a principios del 2020.
+ Empeze mi carrera como programador al ingresar a un bootcamp a principios del 2020,
  
- Hice un bootcamp donde tuve la oportunidad de aprender de forma intensiva las tecnologías necesarias dentro del desarrollo web
+ ## :computer: tecnologías que manejo:
+ - Javascript
+ - css
+ - HTML5
+ - Node.js
+ - React.js
+ 
+ ## experiencia laboral
+ Llevo poco mas de un año trabajando en Hello auto, actualmente estoy buscando un cambio laboral en alguna empresa que me permita seguir creciendo como profesional en un ambiente laboral amigable.
+Mis tareas dentro de la empresa consistia en sacar adelante el proyecto de cotización de pólizas de vehículos online junto a un equipo, siempre aprendiendo de ellos y aportando mis puntos de vista.
  
  
 
