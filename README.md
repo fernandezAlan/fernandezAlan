@@ -2,8 +2,6 @@
  # **Alan Fernández**
  ## :fire: *Desarrollador fullStack* :fire:
  
- *:wave:!Hola! soy Alan* 
- 
  ## :computer: Tecnologías que manejo:
  - Javascript
  - css
