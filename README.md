@@ -3,7 +3,7 @@
  ## :fire: *Desarrollador fullStack* :fire:
  
  ## :computer: Tecnologías que manejo:
- ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png){width='50px' height='50px'}
+ ![](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png = width:'50px')
  - Javascript
  - css
  - HTML5
