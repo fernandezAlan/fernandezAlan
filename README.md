@@ -3,6 +3,7 @@
  ## :fire: *Desarrollador fullStack* :fire:
  
  ## :computer: Tecnologías que manejo:
+ ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AReact-icon.svg&psig=AOvVaw0p9aXXrFAhut8BU090WgjN&ust=1650461583896000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjF_NaeoPcCFQAAAAAdAAAAABAD =50x50)
  - Javascript
  - css
  - HTML5
