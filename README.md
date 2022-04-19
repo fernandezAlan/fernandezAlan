@@ -3,6 +3,7 @@
  ## :fire: *Desarrollador fullStack* :fire:
  
  ## :computer: Tecnologías que manejo:
+ ![](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)
  - Javascript
  - css
  - HTML5
