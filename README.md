@@ -1,7 +1,8 @@
  
  # **Alan Fernández**
  ## :fire: *Desarrollador fullStack* :fire:
- 
+ ## :bell: Acerca de mí:
+ Me apasiona la tecnología y busco aportar mis conocimientos en proyectos en donde tambien pueda continuar aprendiendo de los demas y siempre superandome a mi mismo.
  ## :computer: Tecnologías que manejo:
  - Javascript
  - css
