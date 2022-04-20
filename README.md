@@ -4,20 +4,20 @@
  ## :bell: Acerca de mí:
  Me apasiona la tecnología y busco aportar mis conocimientos en proyectos en donde tambien pueda continuar aprendiendo de los demas y siempre superandome a mi mismo.
  ## :computer: Tecnologías que manejo:
- - :check: Javascript
- - css
- - HTML5
- - Node.js
- - React.js
- - Redux
- - TDD(desarrollo de test)
- - Git
- - PostgreSQL
- - sequelize
- - webpack
- - babel
- - Mongodb
- - Express
+ - :white_check_mark: Javascript
+ - :white_check_mark: css
+ - :white_check_mark: HTML5
+ - :white_check_mark: Node.js
+ - :white_check_mark: React.js
+ - :white_check_mark: Redux
+ - :white_check_mark: TDD(desarrollo de test)
+ - :white_check_mark: Git
+ - :white_check_mark: PostgreSQL
+ - :white_check_mark: sequelize
+ - :white_check_mark: webpack
+ - :white_check_mark: babel
+ - :white_check_mark: Mongodb
+ - :white_check_mark: Express
  
  ## Experiencia laboral
  Llevo poco mas de un año trabajando en Hello auto, actualmente estoy buscando un cambio laboral en alguna empresa que me permita seguir creciendo como profesional en un ambiente laboral amigable.
