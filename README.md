@@ -2,7 +2,11 @@
  # **Alan Fernández**
  ## :fire: *Desarrollador fullStack* :fire:
  ## :bell: Acerca de mí:
- Me apasiona la tecnología y busco aportar mis conocimientos en proyectos en donde tambien pueda continuar aprendiendo de los demas y siempre superandome a mi mismo.
+ Hola! soy Alan.
+ Desde el 2020 que estoy en el mundo de la programación web, siempre tratando de crecer en esta industria
+ Me apasiona la tecnología y por eso es que hoy estoy acá, en el mundo IT, buscando aportar y crecer dentro de proyectos que logren ser un reto para mi.
+ Espero poder trabajar junto a personas de las que pueda aprender.
+ información extra: me gustan los videojuegos :video_game: y los perritos :dog:
  ## :computer: Tecnologías que manejo:
  - :white_check_mark: Javascript
  - :white_check_mark: css
