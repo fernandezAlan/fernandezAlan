@@ -13,9 +13,9 @@
  - :white_check_mark: TDD(desarrollo de test)
  - :white_check_mark: Git
  - :white_check_mark: PostgreSQL
- - :white_check_mark: sequelize
- - :white_check_mark: webpack
- - :white_check_mark: babel
+ - :white_check_mark: Sequelize
+ - :white_check_mark: Webpack
+ - :white_check_mark: Babel
  - :white_check_mark: Mongodb
  - :white_check_mark: Express
  
