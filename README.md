@@ -4,11 +4,20 @@
  ## :bell: Acerca de mí:
  Me apasiona la tecnología y busco aportar mis conocimientos en proyectos en donde tambien pueda continuar aprendiendo de los demas y siempre superandome a mi mismo.
  ## :computer: Tecnologías que manejo:
- - Javascript
+ - :check: Javascript
  - css
  - HTML5
  - Node.js
  - React.js
+ - Redux
+ - TDD(desarrollo de test)
+ - Git
+ - PostgreSQL
+ - sequelize
+ - webpack
+ - babel
+ - Mongodb
+ - Express
  
  ## Experiencia laboral
  Llevo poco mas de un año trabajando en Hello auto, actualmente estoy buscando un cambio laboral en alguna empresa que me permita seguir creciendo como profesional en un ambiente laboral amigable.
