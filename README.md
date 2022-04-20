@@ -8,7 +8,8 @@
  Me apasiona la tecnología y por eso es que hoy estoy acá, en el mundo IT, buscando aportar y crecer dentro de proyectos que logren ser un reto para mi.
  
  Espero poder trabajar junto a personas de las que pueda aprender.
- información extra: me gustan los videojuegos :video_game: y los perritos :dog:
+ 
+ información extra: amante de los videojuegos :video_game: y los perritos :dog:
  ## :computer: Tecnologías que manejo:
  - :white_check_mark: Javascript
  - :white_check_mark: css
