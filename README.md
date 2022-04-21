@@ -4,8 +4,7 @@
  ## :bell: Acerca de mí:
  Hola! soy Alan.
  
- Desde el 2020 que estoy en el mundo de la programación web, siempre tratando de crecer en esta industria
- Me apasiona la tecnología y por eso es que hoy estoy acá, en el mundo IT, buscando aportar y crecer dentro de proyectos que logren ser un reto para mi.
+ Desde el 2020 que estoy en el mundo de la programación web, siempre tratando de crecer en esta industria. Me apasiona la tecnología y por eso es que hoy estoy acá, en el mundo IT, buscando aportar y crecer dentro de proyectos que logren ser un reto para mi.
  
  Espero poder trabajar junto a personas de las que pueda aprender.
  
