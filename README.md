@@ -27,13 +27,13 @@ Trabajé un año en el equipo de frontend de Hello Auto, empresa de seguros de a
 Mis tareas dentro de la empresa consistia en automatizar los procesos de creacion de póliza de seguro de auto a través de una web,trabajando con toda la información que el usuario aportaba a la plataforma.
 
 ## Proyectos
-- [MovieApp](https://movies-series-p2bkbzbo6-fernandezalan.vercel.app/):  
+1. [MovieApp](https://movies-series-p2bkbzbo6-fernandezalan.vercel.app/):  
 
 App de peliculas y series, en la que puedes ver información de las peliculas y series más populares y otras categorías.   
 La app cuenta con:
- - la vista principal: una colección de las peliculas o series.
- - detalles de la pelicula o serie: al seleccionar un titulo se puede visualizar todos los detalles de este.
- - biografía de actores: puedes encontrar la biografía de los actores que participaron en el título seleccionado.   
+  - la vista principal: una colección de las peliculas o series.
+  - detalles de la pelicula o serie: al seleccionar un titulo se puede visualizar todos los detalles de este.
+  - biografía de actores: puedes encontrar la biografía de los actores que participaron en el título seleccionado.   
 
 Está app usa la api [The movie db](https://developers.themoviedb.org/3/getting-started/introduction/) para obtener la informacion de las peliculas y series.   
 La app es una SPA(single web aplication) creada con React.   
