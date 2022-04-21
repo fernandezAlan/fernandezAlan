@@ -23,7 +23,7 @@
  - :white_check_mark: Express
  
  ## Experiencia laboral
-Trabajé un año en el equipo de frontend de Hello Auto, empresa de seguros de autos.
+Trabajé un año en el equipo de frontend de Hello Auto, empresa de seguros de autos.   
 Mis tareas dentro de la empresa consistia en automatizar los procesos de creacion de póliza de seguro de auto a través de una web,trabajando con toda la información que el usuario aportaba a la plataforma.
 
 ## Proyectos
