@@ -7,20 +7,14 @@
  Espero poder trabajar junto a personas de las que pueda aprender.   
  > **información extra:** amante de los videojuegos :video_game: y los perritos :dog:
  ## :computer: Tecnologías que manejo:
- - :white_check_mark: Javascript
- - :white_check_mark: css
- - :white_check_mark: HTML5
- - :white_check_mark: Node.js
- - :white_check_mark: React.js
- - :white_check_mark: Redux
- - :white_check_mark: TDD(desarrollo de test)
- - :white_check_mark: Git
- - :white_check_mark: PostgreSQL
- - :white_check_mark: Sequelize
- - :white_check_mark: Webpack
- - :white_check_mark: Babel
- - :white_check_mark: Mongodb
- - :white_check_mark: Express
+|  frontend | backend  |  extra |
+|---|---|---|
+| :white_check_mark: Javascript  |  :white_check_mark: Node.js    |  :white_check_mark: Babel 
+|:white_check_mark: css    | :white_check_mark: PostgreSQL  |  :white_check_mark: Git 
+|:white_check_mark: HTML5      |  :white_check_mark: Mongodb   |   :white_check_mark: TDD(desarrollo de test)  
+| :white_check_mark: React.js  |:white_check_mark: Sequelize  | :white_check_mark: Webpack  |     
+| :white_check_mark: Redux| :white_check_mark: Express||           
+          
  
  ## Experiencia laboral
 Trabajé un año en el equipo de frontend de Hello Auto, empresa de seguros de autos.   
