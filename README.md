@@ -7,7 +7,7 @@
  Espero poder trabajar junto a personas de las que pueda aprender.   
  > **información extra:** amante de los videojuegos :video_game: y los perritos :dog:
  ## :computer: Tecnologías que manejo:
-|  frontend | backend  |  extra |
+|  frontend | backend  |  otro |
 |---|---|---|
 | :white_check_mark: Javascript  |  :white_check_mark: Node.js    |  :white_check_mark: Babel 
 |:white_check_mark: css    | :white_check_mark: PostgreSQL  |  :white_check_mark: Git 
@@ -18,7 +18,7 @@
  
  ## Experiencia laboral
 Trabajé un año en el equipo de frontend de Hello Auto, empresa de seguros de autos.   
-Mis tareas dentro de la empresa consistia en automatizar los procesos de creacion de póliza de seguro de auto a través de una web,trabajando con toda la información que el usuario aportaba a la plataforma.
+Mis tareas dentro de la empresa consistia en automatizar los procesos de creacion de póliza de seguro de auto a través de una web, trabajando con toda la información que el usuario aportaba a la plataforma.
 
 ## Proyectos
 1. [MovieApp](https://movies-series-p2bkbzbo6-fernandezalan.vercel.app/):  
