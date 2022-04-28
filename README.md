@@ -21,7 +21,7 @@ Trabajé un año en el equipo de frontend de Hello Auto, empresa de seguros de a
 Mis tareas dentro de la empresa consistia en automatizar los procesos de creacion de póliza de seguro de auto a través de una web, trabajando con toda la información que el usuario aportaba a la plataforma.
 
 ## Proyectos
-1. [MovieApp](https://movies-series-p2bkbzbo6-fernandezalan.vercel.app/):  
+1. [MovieApp](https://movies-series-app-psi.vercel.app/):  
 
 App de peliculas y series, en la que puedes ver información de las peliculas y series más populares y otras categorías.   
 La app cuenta con:
