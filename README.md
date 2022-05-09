@@ -27,14 +27,14 @@ App de peliculas y series, en la que puedes ver información de las peliculas y 
 La app cuenta con:
   - la vista principal: una colección de las peliculas o series.
   - detalles de la pelicula o serie: al seleccionar un titulo se puede visualizar todos los detalles de este.
-  - biografía de actores: puedes encontrar la biografía de los actores que participaron en el título seleccionado.   
+ .   
 
 Está app usa la api [The movie db](https://developers.themoviedb.org/3/getting-started/introduction/) para obtener la informacion de las peliculas y series.   
 La app es una SPA(single web aplication) creada con React.   
 
 
 <img src="./assets/movie_app_home.PNG" alt="drawing" width="500"/>
-
+<img src="./assets/movie_app_mobile.PNG" alt="drawing" width="500"/>
 <!---
 fernandezAlan/fernandezAlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
