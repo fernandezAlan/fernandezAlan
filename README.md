@@ -34,7 +34,7 @@ La app es una SPA(single web aplication) creada con React.
 
 
 <img src="./assets/movie_app_home.PNG" alt="drawing" width="500"/>
-<img src="./assets/movie_app_mobile.PNG" alt="drawing" width="500"/>
+
 <!---
 fernandezAlan/fernandezAlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
