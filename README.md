@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-fernandez-4845421a4/)
  ## :bell: Acerca de mí:
  Hola! soy Alan.   
-  Soy un desarrollador fullStack con experiencia y dedicación al Frontend, me gusta que mis trabajos tengan una armonía visual y atractiva.\
+  Soy un desarrollador web fullStack con experiencia y dedicación al Frontend, me gusta que mis trabajos tengan una armonía visual y atractiva.\
   Me dedico a programar desde el 2020 y espero tener un largo camino de aprendizaje 
  
   ## Experiencia laboral
