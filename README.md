@@ -29,7 +29,7 @@ Mis tareas dentro de la empresa consistía en, junto a mis compañeros, automati
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL)
   ![Mongodb](https://img.shields.io/badge/-Mongodb-000000?style=flat&logo=Mongodb)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=Sequelize)
-  ![Express](https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=Express)
+  ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express)
   
   otra tecnología.\
   ![Babel](https://img.shields.io/badge/-Babel-000000?style=flat&logo=Babel)
