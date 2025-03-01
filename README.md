@@ -12,7 +12,7 @@ Soy un desarrollador web full stack con especial enfoque en el frontend. Me apas
 ### Desarrollador de Software - NCR Corporation *(Junio 2023 - Febrero 2024)*
 Trabajé en NCR, una empresa líder en tecnología bancaria y comercial. Desarrollé software para cajeros automáticos, corregí bugs y participé en la mejora continua de los sistemas, optimizando transacciones e integrando nuevos módulos.
 
-### Desarrollador Frontend - Hello Auto *(1 año)*
+### Desarrollador Frontend - Hello Auto *(Octubre 2020 - Noviembre 2021)*
 Formé parte del equipo de frontend, automatizando procesos para la emisión de pólizas de seguros a través de una plataforma web.
 
 ### Desarrollador Freelance
