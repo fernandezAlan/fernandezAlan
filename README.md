@@ -44,7 +44,10 @@ Formé parte del equipo de frontend, automatizando procesos para la emisión de 
 ![Webpack](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=Webpack)
 
 ## Proyectos
-
+- **[Space Invaders](https://space-inavers-bild.vercel.app/)**:  
+  Demo jugable de un clásico juego arcade creado con Unity.  
+  Este proyecto surgió como un desafío personal para aprender desarrollo de videojuegos desde cero.  
+  - [Repositorio](https://github.com/fernandezAlan/spaceInvaders)
 - **[MovieApp](https://movies-series-app-psi.vercel.app/)**: SPA de películas y series desarrollada con React y la API de [The Movie DB](https://developers.themoviedb.org/3/getting-started/introduction/).  
   - [Repositorio](https://github.com/fernandezAlan/moviesApp)
 
